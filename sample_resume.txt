@@ -1,0 +1,4 @@
+John Doe
+Skills: Python, Machine Learning, Data Analysis
+Experience: Built ML models, worked with datasets, created dashboards.
+Education: B.Tech in Computer Science
